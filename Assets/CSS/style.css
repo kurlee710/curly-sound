@@ -7,9 +7,10 @@ body {position:relative;
     color: white;
 }
 
-h1
+h1{margin: 30px
+;;}
 h2{
-    margin: 20px;
+    margin: 30px;
 }
 
 main { padding: 60px 0}
